@@ -10,7 +10,7 @@ Coursera test repository
         <h2>My Photos</h2>
         <!-- TODO: Add link to cat photos -->
         <p>See more <a target="_blank" href="https://freecatphotoapp.com">cat photos</a> in our gallery.</p>
-        <a href="https://freecatphotoapp.com"><img src="https://plus.unsplash.com/premium_photo-1661763150703-149671deb82c?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cGhvdG98ZW58MHx8MHx8fDA%3D" alt="A cute orange cat lying on its back."></a>
+        <a href="https://freecatphotoapp.com"><img src="blob:https://dayone.me/eda3228d-8594-4a36-a74d-38ae7a38a227" alt="A cute orange cat lying on its back."></a>
       </section>
       <section>
         <h2>Cat Lists</h2>
