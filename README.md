@@ -5,7 +5,7 @@ Coursera test repository
 <html>
   <body>
     <main>
-      <h1>CatPhotoApp</h1>
+      <h1>Adriana Rizk Website</h1>
       <section>
         <h2>Cat Photos</h2>
         <!-- TODO: Add link to cat photos -->
